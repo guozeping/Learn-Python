@@ -1,0 +1,30 @@
+格式
+扩展名
+说明
+Excel 工作簿
+.xlsx
+Excel 2010 和 Excel 2007 默认的基于 XML 的文件格式。不能存储 Microsoft Visual Basic for Applications (VBA) 宏代码或 Microsoft Office Excel 4.0 宏工作表 (.xlm)。
+Excel 启用宏的工作簿（代码）
+.xlsm
+Excel 2016Excel 2013Excel 2010 和 Excel 2007的基于 XML 和启用宏的文件格式。存储 VBA 宏代码或 Excel 4.0 宏工作表 (.xlm)。
+Excel 二进制工作簿
+.xlsb
+Excel 2010 和 Excel 2007 的二进制文件格式 (BIFF12)。
+模板
+.xltx
+Excel 2010 和 Excel 2007 的 Excel 模板默认的文件格式。不能存储 VBA 宏代码或 Excel 4.0 宏工作表 (.xlm)。
+模板（代码）
+.xltm
+Excel 模板 Excel 2010 和 Excel 2007 启用宏的文件格式。存储 VBA 宏代码或 Excel 4.0 宏工作表 (.xlm)。
+Excel 97- Excel 2003 工作簿
+.xls
+Excel 97 - Excel 2003 二进制文件格式 (BIFF8)。
+Microsoft Excel 5.0/95 工作簿
+.xls 
+Excel 5.0/95 二进制文件格式 (BIFF5)
+Excel 97- Excel 2003 模板
+.xlt
+
+————————————————
+版权声明：本文为CSDN博主「OceanProo」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/YeChao3/article/details/83660615
