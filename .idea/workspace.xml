@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/001-capitalize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/字符串格式化.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-教程/_和__的用途和区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/_和__的用途和区别.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-教程/argparse_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/argparse_learn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-教程/nonlocal和global.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/nonlocal和global.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-教程/with 教程.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/with 教程.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +21,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Px8XMStKLRIINh8sGEPJJSPqTZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -208,10 +205,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.001-capitalize" />
-        <item itemvalue="Python.删" />
         <item itemvalue="Python.改" />
-        <item itemvalue="Python.查" />
-        <item itemvalue="Python.增" />
       </list>
     </recent_temporary>
   </component>
@@ -248,12 +242,17 @@
       <workItem from="1569986169776" duration="228000" />
       <workItem from="1569986434696" duration="6364000" />
       <workItem from="1572235457488" duration="6798000" />
-      <workItem from="1577685494633" duration="1997000" />
+      <workItem from="1577685494633" duration="3091000" />
+      <workItem from="1577688607813" duration="50000" />
+      <workItem from="1577688867140" duration="721000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1398" height="285" key="GridCell.Tab.0.bottom" timestamp="1577687288307">
@@ -288,10 +287,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877/-240.-1027.1680.1027@0.23.1440.877" timestamp="1577687288308" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1577685507738">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1577689504635">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-240.-1027.1680.1027@0.23.1440.877" timestamp="1577685507738" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-240.-1027.1680.1027@0.23.1440.877" timestamp="1577689504635" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_learn$005_.coverage" NAME="005-装饰器链 Coverage Results" MODIFIED="1560919057695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
