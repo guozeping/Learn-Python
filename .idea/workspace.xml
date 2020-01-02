@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-基础/函数/必报函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/File/._000-文件模块.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/File/000-文件模块.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/File/000-文件模块.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/OS/._000-函数解释.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/OS/000-函数解释.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/OS/000-函数解释.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/函数/nonlocal_global/global.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/函数/nonlocal_global/nonlocal.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/01-Number/基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/03-Tuple/基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Set/基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/06-Dict/基础.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +58,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1-基础/基本变量类型" />
+      <recent name="$PROJECT_DIR$/1-基础" />
       <recent name="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数" />
       <recent name="$PROJECT_DIR$/3-应用/操作excel" />
       <recent name="$PROJECT_DIR$/3-应用/xlrd_excel" />
-      <recent name="$PROJECT_DIR$/1-基础/OS" />
     </key>
   </component>
   <component name="RunManager" selected="Python.015-isdecimal">
@@ -336,7 +335,7 @@
       <workItem from="1577691046733" duration="37000" />
       <workItem from="1577760807459" duration="1528000" />
       <workItem from="1577762557488" duration="948000" />
-      <workItem from="1577929490718" duration="3887000" />
+      <workItem from="1577929490718" duration="4209000" />
     </task>
     <servers />
   </component>
