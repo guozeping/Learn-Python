@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Created by iFantastic on 2019/4/16
+# Created by iFantastic on 2019/4-教程/16
 """
 os.sep     可以取代操作系统特定的路径分割符
 
