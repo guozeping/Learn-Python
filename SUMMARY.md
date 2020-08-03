@@ -1,0 +1,22 @@
+# Table of contents
+
+* [Learn-Python](README.md)
+* [1-基础](1-ji-chu/README.md)
+  * [基本变量类型](1-ji-chu/ji-ben-bian-liang-lei-xing/README.md)
+    * [06-Dict](1-ji-chu/ji-ben-bian-liang-lei-xing/06-dict/README.md)
+      * [基础](1-ji-chu/ji-ben-bian-liang-lei-xing/06-dict/ji-chu.md)
+    * [02-String](1-ji-chu/ji-ben-bian-liang-lei-xing/02-string/README.md)
+      * [格式化字符串](1-ji-chu/ji-ben-bian-liang-lei-xing/02-string/ge-shi-hua-zi-fu-chuan.md)
+    * [04-List](1-ji-chu/ji-ben-bian-liang-lei-xing/04-list/README.md)
+      * [基础](1-ji-chu/ji-ben-bian-liang-lei-xing/04-list/ji-chu.md)
+    * [05-Set](1-ji-chu/ji-ben-bian-liang-lei-xing/05-set/README.md)
+      * [基础](1-ji-chu/ji-ben-bian-liang-lei-xing/05-set/ji-chu.md)
+    * [03-Tuple](1-ji-chu/ji-ben-bian-liang-lei-xing/03-tuple/README.md)
+      * [基础](1-ji-chu/ji-ben-bian-liang-lei-xing/03-tuple/ji-chu.md)
+    * [01-Number](1-ji-chu/ji-ben-bian-liang-lei-xing/01-number/README.md)
+      * [基础](1-ji-chu/ji-ben-bian-liang-lei-xing/01-number/ji-chu.md)
+  * [OS](1-ji-chu/os/README.md)
+    * [000-函数解释](1-ji-chu/os/000-han-shu-jie-shi.md)
+  * [File](1-ji-chu/file/README.md)
+    * [000-文件模块](1-ji-chu/file/000-wen-jian-mo-kuai.md)
+
