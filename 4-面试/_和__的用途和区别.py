@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Created by iFantastic on 2019/4-教程/16
+# Created by iFantastic on 2019/3-教程/16
 '''
     在python类中没有真正的私有属性和方法，没有真正的私有化。
     _的属性和方法为私有方法或属性，提示该属性和方法不应在外部调用，也不会被

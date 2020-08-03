@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Created by iFantastic on 2019/4-教程/18
+# Created by iFantastic on 2019/3-教程/18
 # 创建一个日志器logger并设置其日志级别为DEBUG
 import logging
 logging = logging.getLogger('simple_logger')

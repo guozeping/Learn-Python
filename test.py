@@ -1,4 +1,13 @@
-import random
-a = random.randint(50,100)
-b = random.randint(10,30)
-print(a,b)
+
+class base(object):
+    def __init__(self,a,b):
+        self.a = a
+        self.b = b
+
+
+
+
+if __name__ == '__main__':
+    pass
+
+

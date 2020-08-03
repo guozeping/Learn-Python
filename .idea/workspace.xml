@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4-教程/Excel操作/openpyxl/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1-基础/OS/模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/OS/模块.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2-进阶/日志/应用/使用python实现日志.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-进阶/日志/应用/使用python实现日志.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-面试/_和__的用途和区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-面试/_和__的用途和区别.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-面试/argparse_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-面试/argparse_learn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-面试/nonlocal和global.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-面试/nonlocal和global.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-面试/with 教程.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-面试/with 教程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/压缩与解压/压缩.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/压缩与解压/压缩.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/压缩与解压/解压.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/压缩与解压/解压.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlrd_excel/._excel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/._excel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlrd_excel/Excel_Workbook_5.xls" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/Excel_Workbook_5.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlrd_excel/excel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/excel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlrd_excel/对excel的读取.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/对excel的读取.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/为单元格添加边框.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/为单元格添加边框.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/为单元格设置背景色.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/为单元格设置背景色.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/合并列和航.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/合并列和航.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/向单元格添加一个公式.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/向单元格添加一个公式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/向单元格添加一个超链接.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/向单元格添加一个超链接.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/操作elcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/操作elcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/格式变换.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/格式变换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-教程/Excel操作/openpyxl/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/Excel操作/openpyxl/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-面试/_和__的用途和区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/_和__的用途和区别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-面试/argparse_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/argparse_learn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-面试/nonlocal和global.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/nonlocal和global.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-面试/with 教程.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/with 教程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +55,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="80699448-e229-4178-b5ac-8888c4265f57" />
   <component name="ProjectId" id="1Px8XMStKLRIINh8sGEPJJSPqTZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,15 +76,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4-教程" />
       <recent name="$PROJECT_DIR$/1-基础/基本变量类型" />
       <recent name="$PROJECT_DIR$/1-基础" />
       <recent name="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数" />
       <recent name="$PROJECT_DIR$/3-应用/操作excel" />
-      <recent name="$PROJECT_DIR$/3-应用/xlrd_excel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.015-isdecimal">
-    <configuration name="查" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="增" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +97,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/查.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/增.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,28 +150,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="012-replace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/012-replace.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="012-split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,28 +186,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/015-isdecimal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="增" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/增.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,13 +260,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.015-isdecimal" />
         <item itemvalue="Python.002-zfill" />
         <item itemvalue="Python.001-translate" />
         <item itemvalue="Python.012-split" />
-        <item itemvalue="Python.012-replace" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +320,9 @@
       <workItem from="1577760807459" duration="1528000" />
       <workItem from="1577762557488" duration="948000" />
       <workItem from="1577929490718" duration="4209000" />
-      <workItem from="1595410200854" duration="146000" />
+      <workItem from="1595410200854" duration="2031000" />
+      <workItem from="1595495024123" duration="2689000" />
+      <workItem from="1595908921241" duration="644000" />
     </task>
     <servers />
   </component>
@@ -336,6 +333,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="2061" height="279" key="GridCell.Tab.0.bottom" timestamp="1595907848801">
+      <screen x="0" y="23" width="1440" height="845" />
+    </state>
+    <state width="1398" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595505047102" />
+    <state width="2061" height="279" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1595907848801" />
+    <state width="2061" height="279" key="GridCell.Tab.0.center" timestamp="1595907848800">
+      <screen x="0" y="23" width="1440" height="845" />
+    </state>
+    <state width="1398" height="279" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595505047101" />
+    <state width="2061" height="279" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1595907848800" />
+    <state width="2061" height="279" key="GridCell.Tab.0.left" timestamp="1595907848800">
+      <screen x="0" y="23" width="1440" height="845" />
+    </state>
+    <state width="1398" height="279" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595505047100" />
+    <state width="2061" height="279" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1595907848800" />
+    <state width="2061" height="279" key="GridCell.Tab.0.right" timestamp="1595907848801">
+      <screen x="0" y="23" width="1440" height="845" />
+    </state>
+    <state width="1398" height="279" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595505047101" />
+    <state width="2061" height="279" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1595907848801" />
     <state x="221" y="84" key="SettingsEditor" timestamp="1595410346327">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
@@ -363,7 +380,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$012_replace.coverage" NAME="012-replace Coverage Results" MODIFIED="1577932104190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$002_zfill.coverage" NAME="002-zfill Coverage Results" MODIFIED="1577932575208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增" />
     <SUITE FILE_PATH="coverage/Learn_Python$009_maketrans.coverage" NAME="009-maketrans Coverage Results" MODIFIED="1577931973457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-    <SUITE FILE_PATH="coverage/Learn_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1577685908746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learn_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1595505047094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learn_Python$006_rjust.coverage" NAME="006-rjust Coverage Results" MODIFIED="1577931737880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/python_learn$elcel.coverage" NAME="操作elcel Coverage Results" MODIFIED="1569987697197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用" />
     <SUITE FILE_PATH="coverage/Learn_Python$.coverage" NAME="删 Coverage Results" MODIFIED="1577687026770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数" />
