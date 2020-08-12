@@ -13,3 +13,6 @@ worksheet.write(0,0,datetime.datetime.now(), style)
 # 设置单元格宽度
 worksheet.col(0).width = 3333
 workbook.save('Excel_Workbook.xls')
+
+import os
+print(os.cpu_count())

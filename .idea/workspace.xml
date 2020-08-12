@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/Excel_Workbook.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/OS/模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/OS/模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-进阶/日志/应用/使用python实现日志.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-进阶/日志/应用/使用python实现日志.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/压缩与解压/压缩.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/压缩与解压/压缩.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/压缩与解压/解压.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/压缩与解压/解压.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlrd_excel/._excel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/._excel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlrd_excel/Excel_Workbook_5.xls" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/Excel_Workbook_5.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlrd_excel/excel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/excel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlrd_excel/对excel的读取.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/对excel的读取.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/为单元格添加边框.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/为单元格添加边框.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/为单元格设置背景色.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/为单元格设置背景色.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/合并列和航.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/合并列和航.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/向单元格添加一个公式.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/向单元格添加一个公式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/向单元格添加一个超链接.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/向单元格添加一个超链接.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/操作elcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/操作elcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/格式变换.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/格式变换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-教程/Excel操作/openpyxl/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/Excel操作/openpyxl/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-面试/_和__的用途和区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/_和__的用途和区别.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-面试/argparse_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/argparse_learn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-面试/nonlocal和global.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/nonlocal和global.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-面试/with 教程.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/with 教程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +63,8 @@
       <recent name="$PROJECT_DIR$/3-应用/操作excel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="增" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.设置单元格宽度">
+    <configuration name="设置单元格宽度" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,12 +72,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/增.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,28 +122,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增/002-zfill.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="012-split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/012-split.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.设置单元格宽度" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.015-isdecimal" />
         <item itemvalue="Python.002-zfill" />
         <item itemvalue="Python.001-translate" />
-        <item itemvalue="Python.012-split" />
       </list>
     </recent_temporary>
   </component>
@@ -323,6 +281,8 @@
       <workItem from="1595410200854" duration="2031000" />
       <workItem from="1595495024123" duration="2689000" />
       <workItem from="1595908921241" duration="644000" />
+      <workItem from="1597208523909" duration="50000" />
+      <workItem from="1597213674424" duration="55000" />
     </task>
     <servers />
   </component>
@@ -333,30 +293,42 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2061" height="279" key="GridCell.Tab.0.bottom" timestamp="1595907848801">
-      <screen x="0" y="23" width="1440" height="845" />
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597208532939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597208532939" />
+    <state width="1878" height="372" key="GridCell.Tab.0.bottom" timestamp="1597208573015">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595505047102" />
+    <state width="1878" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573015" />
     <state width="2061" height="279" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1595907848801" />
-    <state width="2061" height="279" key="GridCell.Tab.0.center" timestamp="1595907848800">
-      <screen x="0" y="23" width="1440" height="845" />
+    <state width="1878" height="372" key="GridCell.Tab.0.center" timestamp="1597208573014">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="279" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595505047101" />
+    <state width="1878" height="372" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573014" />
     <state width="2061" height="279" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1595907848800" />
-    <state width="2061" height="279" key="GridCell.Tab.0.left" timestamp="1595907848800">
-      <screen x="0" y="23" width="1440" height="845" />
+    <state width="1878" height="372" key="GridCell.Tab.0.left" timestamp="1597208573014">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="279" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595505047100" />
+    <state width="1878" height="372" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573014" />
     <state width="2061" height="279" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1595907848800" />
-    <state width="2061" height="279" key="GridCell.Tab.0.right" timestamp="1595907848801">
-      <screen x="0" y="23" width="1440" height="845" />
+    <state width="1878" height="372" key="GridCell.Tab.0.right" timestamp="1597208573015">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="279" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595505047101" />
+    <state width="1878" height="372" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573015" />
     <state width="2061" height="279" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1595907848801" />
     <state x="221" y="84" key="SettingsEditor" timestamp="1595410346327">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state x="221" y="84" key="SettingsEditor/0.23.1440.845@0.23.1440.845" timestamp="1595410346327" />
+    <state x="667" y="136" width="586" height="807" key="find.popup" timestamp="1597208558821">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="136" width="586" height="807" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597208558821" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_learn$001_.coverage" NAME="001-基础 Coverage Results" MODIFIED="1560958328659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-进阶/Celery_learn" />
@@ -383,7 +355,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1595505047094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learn_Python$006_rjust.coverage" NAME="006-rjust Coverage Results" MODIFIED="1577931737880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/python_learn$elcel.coverage" NAME="操作elcel Coverage Results" MODIFIED="1569987697197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用" />
-    <SUITE FILE_PATH="coverage/Learn_Python$.coverage" NAME="删 Coverage Results" MODIFIED="1577687026770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数" />
+    <SUITE FILE_PATH="coverage/Learn_Python$.coverage" NAME="设置单元格宽度 Coverage Results" MODIFIED="1597208564021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel" />
     <SUITE FILE_PATH="coverage/Learn_Python$004_index.coverage" NAME="004-index Coverage Results" MODIFIED="1577931123150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/python_learn$02.coverage" NAME="02 Coverage Results" MODIFIED="1569987654033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用/操作excel" />
     <SUITE FILE_PATH="coverage/python_learn$005_.coverage" NAME="005-装饰器链 Coverage Results" MODIFIED="1560919057695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
