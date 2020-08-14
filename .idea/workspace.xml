@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/Excel_Workbook.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetbrains_software.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <recent name="$PROJECT_DIR$/3-应用/操作excel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.设置单元格宽度">
+  <component name="RunManager" selected="Python.jetbrains_software">
     <configuration name="设置单元格宽度" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,28 +77,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="001-translate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/02-删" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/02-删/001-translate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,6 +195,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="jetbrains_software" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jetbrains_software.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.jetbrains_software" />
         <item itemvalue="Python.设置单元格宽度" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.015-isdecimal" />
         <item itemvalue="Python.002-zfill" />
-        <item itemvalue="Python.001-translate" />
       </list>
     </recent_temporary>
   </component>
@@ -283,6 +282,7 @@
       <workItem from="1595908921241" duration="644000" />
       <workItem from="1597208523909" duration="50000" />
       <workItem from="1597213674424" duration="55000" />
+      <workItem from="1597213774454" duration="1942000" />
     </task>
     <servers />
   </component>
@@ -297,29 +297,33 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597208532939" />
-    <state width="1878" height="372" key="GridCell.Tab.0.bottom" timestamp="1597208573015">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom" timestamp="1597367777304">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595505047102" />
     <state width="1878" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573015" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1597367777304" />
     <state width="2061" height="279" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1595907848801" />
-    <state width="1878" height="372" key="GridCell.Tab.0.center" timestamp="1597208573014">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center" timestamp="1597367777303">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="279" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595505047101" />
     <state width="1878" height="372" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573014" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1597367777303" />
     <state width="2061" height="279" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1595907848800" />
-    <state width="1878" height="372" key="GridCell.Tab.0.left" timestamp="1597208573014">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left" timestamp="1597367777303">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="279" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595505047100" />
     <state width="1878" height="372" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573014" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1597367777303" />
     <state width="2061" height="279" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1595907848800" />
-    <state width="1878" height="372" key="GridCell.Tab.0.right" timestamp="1597208573015">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right" timestamp="1597367777304">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="279" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595505047101" />
     <state width="1878" height="372" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573015" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1597367777304" />
     <state width="2061" height="279" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1595907848801" />
     <state x="221" y="84" key="SettingsEditor" timestamp="1595410346327">
       <screen x="0" y="23" width="1440" height="845" />
@@ -338,6 +342,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$007_lower.coverage" NAME="007-lower Coverage Results" MODIFIED="1577931803127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$011_istitle.coverage" NAME="011-istitle Coverage Results" MODIFIED="1577931398938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/Learn_Python$001_.coverage" NAME="001-闭包装饰器 Coverage Results" MODIFIED="1577930530873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
+    <SUITE FILE_PATH="coverage/Learn_Python$jetbrains_software.coverage" NAME="jetbrains_software Coverage Results" MODIFIED="1597310510438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learn_Python$002_endswith.coverage" NAME="002-endswith Coverage Results" MODIFIED="1577930970860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/python_learn$test.coverage" NAME="test Coverage Results" MODIFIED="1572320563598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learn$__1_.coverage" NAME="为单元格添加边框 (1) Coverage Results" MODIFIED="1569991836285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用/xlwt_excel" />
