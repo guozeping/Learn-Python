@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jetbrains_software.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-知识点/sort、sotred.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -62,7 +66,7 @@
       <recent name="$PROJECT_DIR$/3-应用/操作excel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jetbrains_software">
+  <component name="RunManager" selected="Python.sort、sotred">
     <configuration name="设置单元格宽度" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,28 +81,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="002-zfill" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增/002-zfill.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,6 +199,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sort、sotred" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5-知识点" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-知识点/sort、sotred.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,14 +245,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort、sotred" />
         <item itemvalue="Python.jetbrains_software" />
         <item itemvalue="Python.设置单元格宽度" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.015-isdecimal" />
-        <item itemvalue="Python.002-zfill" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -283,95 +288,72 @@
       <workItem from="1597208523909" duration="50000" />
       <workItem from="1597213674424" duration="55000" />
       <workItem from="1597213774454" duration="1942000" />
+      <workItem from="1600069383976" duration="541000" />
+      <workItem from="1602319412127" duration="266000" />
+      <workItem from="1602382732151" duration="261000" />
+      <workItem from="1602383244097" duration="34000" />
+      <workItem from="1602383303047" duration="605000" />
+      <workItem from="1603779203561" duration="2000" />
+      <workItem from="1614751423102" duration="1608000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597208532939">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597208532939" />
-    <state width="1398" height="229" key="GridCell.Tab.0.bottom" timestamp="1597367777304">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1398" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595505047102" />
-    <state width="1878" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573015" />
-    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1597367777304" />
-    <state width="2061" height="279" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1595907848801" />
-    <state width="1398" height="229" key="GridCell.Tab.0.center" timestamp="1597367777303">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1398" height="279" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595505047101" />
-    <state width="1878" height="372" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573014" />
-    <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1597367777303" />
-    <state width="2061" height="279" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1595907848800" />
-    <state width="1398" height="229" key="GridCell.Tab.0.left" timestamp="1597367777303">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1398" height="279" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595505047100" />
-    <state width="1878" height="372" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573014" />
-    <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1597367777303" />
-    <state width="2061" height="279" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1595907848800" />
-    <state width="1398" height="229" key="GridCell.Tab.0.right" timestamp="1597367777304">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1398" height="279" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595505047101" />
-    <state width="1878" height="372" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597208573015" />
-    <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1597367777304" />
-    <state width="2061" height="279" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1595907848801" />
-    <state x="221" y="84" key="SettingsEditor" timestamp="1595410346327">
-      <screen x="0" y="23" width="1440" height="845" />
-    </state>
-    <state x="221" y="84" key="SettingsEditor/0.23.1440.845@0.23.1440.845" timestamp="1595410346327" />
-    <state x="667" y="136" width="586" height="807" key="find.popup" timestamp="1597208558821">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="667" y="136" width="586" height="807" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597208558821" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_learn$001_.coverage" NAME="001-基础 Coverage Results" MODIFIED="1560958328659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-进阶/Celery_learn" />
-    <SUITE FILE_PATH="coverage/Learn_Python$001_capitalize.coverage" NAME="001-capitalize Coverage Results" MODIFIED="1577687288284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/python_learn$02.coverage" NAME="02 Coverage Results" MODIFIED="1569987654033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用/操作excel" />
+    <SUITE FILE_PATH="coverage/python_learn$elcel.coverage" NAME="操作elcel Coverage Results" MODIFIED="1569987697197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用" />
     <SUITE FILE_PATH="coverage/python_learn$001_property.coverage" NAME="001-property Coverage Results" MODIFIED="1560922105556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器/001-内置装饰器" />
     <SUITE FILE_PATH="coverage/python_learn$celery.coverage" NAME="celery Coverage Results" MODIFIED="1560958464389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-进阶/Celery_learn/celery_project" />
-    <SUITE FILE_PATH="coverage/Learn_Python$007_lower.coverage" NAME="007-lower Coverage Results" MODIFIED="1577931803127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-    <SUITE FILE_PATH="coverage/Learn_Python$011_istitle.coverage" NAME="011-istitle Coverage Results" MODIFIED="1577931398938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
-    <SUITE FILE_PATH="coverage/Learn_Python$001_.coverage" NAME="001-闭包装饰器 Coverage Results" MODIFIED="1577930530873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
-    <SUITE FILE_PATH="coverage/Learn_Python$jetbrains_software.coverage" NAME="jetbrains_software Coverage Results" MODIFIED="1597310510438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learn_Python$002_endswith.coverage" NAME="002-endswith Coverage Results" MODIFIED="1577930970860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
-    <SUITE FILE_PATH="coverage/python_learn$test.coverage" NAME="test Coverage Results" MODIFIED="1572320563598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learn$__1_.coverage" NAME="为单元格添加边框 (1) Coverage Results" MODIFIED="1569991836285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用/xlwt_excel" />
-    <SUITE FILE_PATH="coverage/Learn_Python$001_center.coverage" NAME="001-center Coverage Results" MODIFIED="1577930712914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增" />
-    <SUITE FILE_PATH="coverage/python_learn$002__staticmethod_classmethod.coverage" NAME="002-@staticmethod，@classmethod Coverage Results" MODIFIED="1560922196015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器/001-内置装饰器" />
-    <SUITE FILE_PATH="coverage/python_learn$01.coverage" NAME="01 Coverage Results" MODIFIED="1572259244785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/类/namespace" />
     <SUITE FILE_PATH="coverage/python_learn$008_.coverage" NAME="008-函数的类带参装饰器 Coverage Results" MODIFIED="1560921768030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
-    <SUITE FILE_PATH="coverage/python_learn$006__functools.coverage" NAME="006-装饰器库-functools Coverage Results" MODIFIED="1560919680524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
-    <SUITE FILE_PATH="coverage/Learn_Python$012_split.coverage" NAME="012-split Coverage Results" MODIFIED="1577932143452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-    <SUITE FILE_PATH="coverage/Learn_Python$003_find.coverage" NAME="003-find Coverage Results" MODIFIED="1577931087466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
-    <SUITE FILE_PATH="coverage/python_learn$wsgi.coverage" NAME="wsgi应用 Coverage Results" MODIFIED="1560613856228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用" />
-    <SUITE FILE_PATH="coverage/Learn_Python$012_replace.coverage" NAME="012-replace Coverage Results" MODIFIED="1577932104190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-    <SUITE FILE_PATH="coverage/Learn_Python$002_zfill.coverage" NAME="002-zfill Coverage Results" MODIFIED="1577932575208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增" />
-    <SUITE FILE_PATH="coverage/Learn_Python$009_maketrans.coverage" NAME="009-maketrans Coverage Results" MODIFIED="1577931973457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-    <SUITE FILE_PATH="coverage/Learn_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1595505047094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learn_Python$006_rjust.coverage" NAME="006-rjust Coverage Results" MODIFIED="1577931737880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-    <SUITE FILE_PATH="coverage/python_learn$elcel.coverage" NAME="操作elcel Coverage Results" MODIFIED="1569987697197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用" />
-    <SUITE FILE_PATH="coverage/Learn_Python$.coverage" NAME="设置单元格宽度 Coverage Results" MODIFIED="1597208564021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel" />
-    <SUITE FILE_PATH="coverage/Learn_Python$004_index.coverage" NAME="004-index Coverage Results" MODIFIED="1577931123150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
-    <SUITE FILE_PATH="coverage/python_learn$02.coverage" NAME="02 Coverage Results" MODIFIED="1569987654033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用/操作excel" />
-    <SUITE FILE_PATH="coverage/python_learn$005_.coverage" NAME="005-装饰器链 Coverage Results" MODIFIED="1560919057695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
-    <SUITE FILE_PATH="coverage/Learn_Python$012_isupper.coverage" NAME="012-isupper Coverage Results" MODIFIED="1577931445851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
-    <SUITE FILE_PATH="coverage/Learn_Python$004_expandtabs.coverage" NAME="004-expandtabs Coverage Results" MODIFIED="1577931010579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-    <SUITE FILE_PATH="coverage/Learn_Python$005_isalnum.coverage" NAME="005-isalnum Coverage Results" MODIFIED="1577931164095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/python_learn$.coverage" NAME="为单元格设置背景色 Coverage Results" MODIFIED="1569990786117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用/操作excel" />
-    <SUITE FILE_PATH="coverage/Learn_Python$001_count.coverage" NAME="001-count Coverage Results" MODIFIED="1577930752056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
-    <SUITE FILE_PATH="coverage/Learn_Python$isalpha.coverage" NAME="isalpha Coverage Results" MODIFIED="1577931215717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
-    <SUITE FILE_PATH="coverage/python_learn$007_.coverage" NAME="007-函数的函数带参装饰器 Coverage Results" MODIFIED="1560920761369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
-    <SUITE FILE_PATH="coverage/Learn_Python$001_translate.coverage" NAME="001-translate Coverage Results" MODIFIED="1577932487680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/02-删" />
+    <SUITE FILE_PATH="coverage/Learn_Python$001_capitalize.coverage" NAME="001-capitalize Coverage Results" MODIFIED="1577687288284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/Learn_Python$001_center.coverage" NAME="001-center Coverage Results" MODIFIED="1577930712914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增" />
     <SUITE FILE_PATH="coverage/Learn_Python$015_isdecimal.coverage" NAME="015-isdecimal Coverage Results" MODIFIED="1577932665388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
+    <SUITE FILE_PATH="coverage/Learn_Python$001_translate.coverage" NAME="001-translate Coverage Results" MODIFIED="1577932487680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/02-删" />
+    <SUITE FILE_PATH="coverage/python_learn$001_.coverage" NAME="001-基础 Coverage Results" MODIFIED="1560958328659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-进阶/Celery_learn" />
+    <SUITE FILE_PATH="coverage/Learn_Python$005_isalnum.coverage" NAME="005-isalnum Coverage Results" MODIFIED="1577931164095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
+    <SUITE FILE_PATH="coverage/Learn_Python$012_split.coverage" NAME="012-split Coverage Results" MODIFIED="1577932143452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/Learn_Python$009_maketrans.coverage" NAME="009-maketrans Coverage Results" MODIFIED="1577931973457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/python_learn$002__staticmethod_classmethod.coverage" NAME="002-@staticmethod，@classmethod Coverage Results" MODIFIED="1560922196015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器/001-内置装饰器" />
+    <SUITE FILE_PATH="coverage/Learn_Python$002_endswith.coverage" NAME="002-endswith Coverage Results" MODIFIED="1577930970860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
+    <SUITE FILE_PATH="coverage/Learn_Python$012_replace.coverage" NAME="012-replace Coverage Results" MODIFIED="1577932104190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/Learn_Python$004_expandtabs.coverage" NAME="004-expandtabs Coverage Results" MODIFIED="1577931010579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/Learn_Python$sortsotred.coverage" NAME="sort、sotred Coverage Results" MODIFIED="1614751579834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-知识点" />
+    <SUITE FILE_PATH="coverage/Learn_Python$jetbrains_software.coverage" NAME="jetbrains_software Coverage Results" MODIFIED="1597310510438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learn_Python$003_find.coverage" NAME="003-find Coverage Results" MODIFIED="1577931087466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
+    <SUITE FILE_PATH="coverage/Learn_Python$001_.coverage" NAME="001-闭包装饰器 Coverage Results" MODIFIED="1577930530873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
+    <SUITE FILE_PATH="coverage/python_learn$test.coverage" NAME="test Coverage Results" MODIFIED="1572320563598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$005_.coverage" NAME="005-装饰器链 Coverage Results" MODIFIED="1560919057695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
+    <SUITE FILE_PATH="coverage/python_learn$006__functools.coverage" NAME="006-装饰器库-functools Coverage Results" MODIFIED="1560919680524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
+    <SUITE FILE_PATH="coverage/Learn_Python$007_lower.coverage" NAME="007-lower Coverage Results" MODIFIED="1577931803127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/python_learn$007_.coverage" NAME="007-函数的函数带参装饰器 Coverage Results" MODIFIED="1560920761369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
+    <SUITE FILE_PATH="coverage/python_learn$01.coverage" NAME="01 Coverage Results" MODIFIED="1572259244785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/类/namespace" />
+    <SUITE FILE_PATH="coverage/python_learn$wsgi.coverage" NAME="wsgi应用 Coverage Results" MODIFIED="1560613856228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用" />
+    <SUITE FILE_PATH="coverage/Learn_Python$001_count.coverage" NAME="001-count Coverage Results" MODIFIED="1577930752056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
+    <SUITE FILE_PATH="coverage/Learn_Python$012_isupper.coverage" NAME="012-isupper Coverage Results" MODIFIED="1577931445851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
+    <SUITE FILE_PATH="coverage/Learn_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1595505047094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learn_Python$.coverage" NAME="设置单元格宽度 Coverage Results" MODIFIED="1597208564021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel" />
+    <SUITE FILE_PATH="coverage/python_learn$__1_.coverage" NAME="为单元格添加边框 (1) Coverage Results" MODIFIED="1569991836285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用/xlwt_excel" />
+    <SUITE FILE_PATH="coverage/Learn_Python$006_rjust.coverage" NAME="006-rjust Coverage Results" MODIFIED="1577931737880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/Learn_Python$002_zfill.coverage" NAME="002-zfill Coverage Results" MODIFIED="1577932575208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增" />
+    <SUITE FILE_PATH="coverage/Learn_Python$004_index.coverage" NAME="004-index Coverage Results" MODIFIED="1577931123150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
+    <SUITE FILE_PATH="coverage/Learn_Python$isalpha.coverage" NAME="isalpha Coverage Results" MODIFIED="1577931215717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
+    <SUITE FILE_PATH="coverage/Learn_Python$011_istitle.coverage" NAME="011-istitle Coverage Results" MODIFIED="1577931398938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
   </component>
 </project>

@@ -1,13 +1,12 @@
+class dictObj(object):
+    def __init__(self):
+        self.x = 'red'
+        self.y = 'Yellow'
+        self.z = 'Green'
 
-class base(object):
-    def __init__(self,a,b):
-        self.a = a
-        self.b = b
-
-
-
-
-if __name__ == '__main__':
-    pass
+    def do_nothing(self):
+        pass
 
 
+test = dictObj()
+print(test.__dict__)
