@@ -5,3 +5,7 @@
 """
 str = 'www.runoob.com'
 print(str.partition("."))
+
+rstr = str.rpartition(".")
+print(rstr)
+
