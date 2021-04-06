@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/01-Number/001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/casefold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/removeprefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/removesuffix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/001-clear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-知识点/sort、sotred.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-面试/sort、sotred.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +268,7 @@
       <workItem from="1616498255929" duration="925000" />
       <workItem from="1617010222539" duration="22000" />
       <workItem from="1617010271668" duration="2007000" />
-      <workItem from="1617265816274" duration="3677000" />
+      <workItem from="1617265816274" duration="3994000" />
     </task>
     <servers />
   </component>
