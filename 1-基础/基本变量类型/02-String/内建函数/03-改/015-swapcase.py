@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 __author__ = 'gzp'
-str = "this is string example....wow!!!"
-print (str.swapcase())
+"""
+Return a copy of the string with uppercase characters converted to lowercase and vice versa. 
+Note that it is not necessarily true that s.swapcase().swapcase() == s.
+"""
+str = "This is string example....wow!!!"
+str_copy = str.swapcase()
 
-str = "This Is String Example....WOW!!!"
-print (str.swapcase())
+print(str)
+print (str_copy)
+

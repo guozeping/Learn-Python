@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 __author__ = 'gzp'
-print('ab c\n\nde fg\rkl\r\n'.splitlines())
+str = 'ab c\n\nde fg\rkl\r\n'
+str_copy = str.splitlines()
 
-print('ab c\n\nde fg\rkl\r\n'.splitlines(True))
+print(str)
+print(str_copy)
+
 
