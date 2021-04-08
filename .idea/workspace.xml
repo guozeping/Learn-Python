@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/001-append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/002-insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/003-extend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/001-update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/002-copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/002-pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/003-popitem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/005-fromkeys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/006-get.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/007-setdefault.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/008-keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/009-values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/010-items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/013-min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/014-max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/015-len.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/001-clear.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/004-clear.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +249,7 @@
       <workItem from="1617010222539" duration="22000" />
       <workItem from="1617010271668" duration="2007000" />
       <workItem from="1617265816274" duration="5401000" />
-      <workItem from="1617869897614" duration="7705000" />
+      <workItem from="1617869897614" duration="8320000" />
     </task>
     <servers />
   </component>
