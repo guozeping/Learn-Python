@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 __author__ = 'gzp'
-# str.count(sub, start=0,end=len(string))
+"""
+S.count(sub[, start[, end]]) -> int
+
+Return the number of non-overlapping occurrences of substring sub in
+string S[start:end].  Optional arguments start and end are
+interpreted as in slice notation.
+"""
+
 str="www.runoob.com"
 sub='o'
 print ("str.count('o') : ", str.count(sub))

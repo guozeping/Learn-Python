@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/004-index.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/004-index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/006-isalpha.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/006-isalpha.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/008-islower.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/008-islower.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/015-isdecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/015-isdecimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/001-count.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/001-count.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,6 +246,7 @@
       <workItem from="1617010222539" duration="22000" />
       <workItem from="1617010271668" duration="2007000" />
       <workItem from="1617265816274" duration="5401000" />
+      <workItem from="1617869897614" duration="492000" />
     </task>
     <servers />
   </component>
@@ -282,6 +279,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$008__.coverage" NAME="008-带参类装饰器-函数 Coverage Results" MODIFIED="1616037908020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
     <SUITE FILE_PATH="coverage/Learn_Python$001_center.coverage" NAME="001-center Coverage Results" MODIFIED="1577930712914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增" />
     <SUITE FILE_PATH="coverage/Learn_Python$001_capitalize.coverage" NAME="001-capitalize Coverage Results" MODIFIED="1617672827655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/Learn_Python$base.coverage" NAME="base Coverage Results" MODIFIED="1617870112036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String" />
     <SUITE FILE_PATH="coverage/Learn_Python$005_isalnum.coverage" NAME="005-isalnum Coverage Results" MODIFIED="1577931164095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/Learn_Python$partition.coverage" NAME="partition Coverage Results" MODIFIED="1617672304375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$010_isspace.coverage" NAME="010-isspace Coverage Results" MODIFIED="1617866979608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
