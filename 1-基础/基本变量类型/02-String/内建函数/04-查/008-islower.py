@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 __author__ = 'gzp'
-str = "RUNOOB example....wow!!!"
-print (str.islower())
+str_1 = "RUNOOB example....wow!!!"
+str_2 = "runoob example....wow!!!"
 
-str = "runoob example....wow!!!"
-print (str.islower())
+print(str_1.islower())
+print(str_2.islower())

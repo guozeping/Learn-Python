@@ -1,12 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 __author__ = 'gzp'
-str = "runoob"
-print (str.isalpha())
+"""
+Return True if the string is an alphabetic string, False otherwise.
 
-# 字母和中文文字
-str = "runoob菜鸟教程"
-print (str.isalpha())
+A string is alphabetic if all characters in the string are alphabetic and there
+is at least one character in the string.        
+"""
+str_1 = "runoob"
+str_2 = "runoob菜鸟教程"
+str_3 = "Runoob example....wow!!!"
+str_4 = "runoob123"
 
-str = "Runoob example....wow!!!"
-print (str.isalpha())
+print(str_1.isalpha())  # true
+print(str_2.isalpha())  # true
+print(str_3.isalpha())  # false
+print(str_4.isalpha())  # false

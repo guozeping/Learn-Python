@@ -6,4 +6,4 @@ str2 = "exam";
 
 print (str1.index(str2))
 print (str1.index(str2, 5))
-print (str1.index(str2, 10))
+# print (str1.index(str2, 10))  # ValueError
