@@ -2,10 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/013-min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/014-max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/015-len.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/06-Set/内置方法/001-add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/06-Set/内置方法/002-update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/06-Set/内置方法/003-copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/06-Set/内置方法/004-remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/06-Set/内置方法/005-pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-基础/基本变量类型/06-Set/内置方法/006-discard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增/001-center.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/01-增/001-center.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增/002-zfill.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/01-增/002-zfill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增/003-ljust.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/01-增/003-ljust.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/01-增/004-rjust.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/01-增/004-rjust.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/02-删/001-translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/02-删/001-translate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/001-join.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/001-join.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/002-expandtabs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/002-expandtabs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/003-encode.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/003-encode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/004-decode.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/004-decode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/005-lower.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/005-lower.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/006-upper.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/006-upper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/007-casefold.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/007-casefold.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/008-capitalize.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/008-capitalize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/009-title.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/009-title.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/010-swapcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/010-swapcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/011-strip.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/011-strip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/012-removeprefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/012-removeprefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/013-removesuffix.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/013-removesuffix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/014-replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/014-replace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/015-maketrans.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/015-maketrans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/016-split.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/016-split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/017-splitlines.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/017-splitlines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改/018-partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/03-改/018-partition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/001-count.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/001-count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/002-len.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/002-len.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/003-find.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/003-find.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/004-index.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/004-index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/005-startswith.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/005-startswith.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/006-endswith.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/006-endswith.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/007-istitle.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/007-istitle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/008-isspace.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/008-isspace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/009-islower.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/009-islower.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/010-isupper.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/010-isupper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/011-isdigit.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/011-isdigit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/012-isdecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/012-isdecimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/013-isnumeric.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/013-isnumeric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/015-isalnum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/015-isalnum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/016-isalpha.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/016-isalpha.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/018-max.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/018-max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查/019-min.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内置方法/04-查/019-min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/001-append.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/001-append.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/002-insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/002-insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/003-extend.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/003-extend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/004-pop.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/004-pop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/005-remove.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/005-remove.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/006-clear.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/006-clear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/007-copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/007-copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/008-sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/008-sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/009-sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/009-sorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/010-reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/010-reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/011-index.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/011-index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/012-count.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/012-count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/013-min.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/013-min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/014-max.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/014-max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置函数/015-len.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/04-List/内置方法/015-len.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/001-update.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/001-update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/002-copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/002-copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/002-pop.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/002-pop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/003-popitem.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/003-popitem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/004-clear.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/004-clear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/005-fromkeys.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/005-fromkeys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/006-get.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/006-get.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/007-setdefault.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/007-setdefault.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/008-keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/008-keys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/009-values.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/009-values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/010-items.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/010-items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数/011-len.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置方法/011-len.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +318,7 @@
       <workItem from="1617010222539" duration="22000" />
       <workItem from="1617010271668" duration="2007000" />
       <workItem from="1617265816274" duration="5401000" />
-      <workItem from="1617869897614" duration="8320000" />
+      <workItem from="1617869897614" duration="8633000" />
     </task>
     <servers />
   </component>
