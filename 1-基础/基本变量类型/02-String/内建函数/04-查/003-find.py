@@ -7,3 +7,4 @@ str2 = "exam"
 print(str1.find(str2))
 print(str1.find(str2, 5))
 print(str1.find(str2, 10))
+print(str1.rfind())
