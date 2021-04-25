@@ -2,55 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/File/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/010-truncate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/011-write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/012-writelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/File/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/File/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/011-getmtime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/012-getctime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/013-getsize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/026-samestat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/027-split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/028-splitdrive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/029-splitext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/030-walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/031-supports_unicode_filenames.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/000-basic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/001-abspath.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/001-abspath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/002-basename.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/002-basename.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/003-commonpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/003-commonpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/004-commonprefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/004-commonprefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/005-dirname.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/005-dirname.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/006-exists.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/006-exists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/007-lexists.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/007-lexists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/008-expanduser.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/008-expanduser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/009-expandvars.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/009-expandvars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/010-getatime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/010-getatime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/011-getmtime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/001-close.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/012-getctime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/002-flush.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/013-getsize.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/003-fileno.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/014-isabs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/014-isabs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/015-isfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/015-isfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/016-isdir.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/016-isdir.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/017-islink.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/017-islink.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/018-ismount.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/018-ismount.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/019-join.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/019-join.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/020-normcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/020-normcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/021-normpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/021-normpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/022-realpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/022-realpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/023-relpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/023-relpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/024-samefile.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/024-samefile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/025-sameopenfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/path/025-sameopenfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/026-samestat.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/004-isatty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/027-split.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/005-read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/028-splitdrive.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/006-readline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/029-splitext.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/007-readlines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/030-walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/008-seek.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/031-supports_unicode_filenames.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/009-tell.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/模块/File/fileobj/003-fileno.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/003-fileno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/模块/File/fileobj/007-readlines.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/fileobj/007-readlines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-基础/模块/File/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/File/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,14 +59,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1-基础/模块/File/fileobj" />
       <recent name="$PROJECT_DIR$/1-基础/模块/OS/path模块" />
       <recent name="$PROJECT_DIR$/1-基础/模块" />
       <recent name="$PROJECT_DIR$/1-基础/模块/001-argpase" />
       <recent name="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict/内置函数" />
-      <recent name="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.001">
+  <component name="RunManager" selected="Python.007-readlines">
     <configuration name="001-abspath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="023-relpath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="003-fileno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,12 +119,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/OS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/File/fileobj" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/OS/path模块/023-relpath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/File/fileobj/003-fileno.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="007-readlines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/File/fileobj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/File/fileobj/007-readlines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,35 +177,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/OS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/OS/basic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.007-readlines" />
+        <item itemvalue="Python.003-fileno" />
         <item itemvalue="Python.001" />
-        <item itemvalue="Python.000-basic" />
         <item itemvalue="Python.001-abspath" />
         <item itemvalue="Python.024-samefile" />
-        <item itemvalue="Python.023-relpath" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +268,9 @@
       <workItem from="1618197519672" duration="97000" />
       <workItem from="1618197628470" duration="5626000" />
       <workItem from="1618278787509" duration="10071000" />
-      <workItem from="1619143717751" duration="1929000" />
+      <workItem from="1619143717751" duration="1983000" />
+      <workItem from="1619319641212" duration="33000" />
+      <workItem from="1619319702561" duration="744000" />
     </task>
     <servers />
   </component>
@@ -433,6 +390,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$removesuffix.coverage" NAME="removesuffix Coverage Results" MODIFIED="1617672609098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$removeprefix.coverage" NAME="removeprefix Coverage Results" MODIFIED="1617672531012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$016_title.coverage" NAME="016-title Coverage Results" MODIFIED="1617266448114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
+    <SUITE FILE_PATH="coverage/Learn_Python$007_readlines.coverage" NAME="007-readlines Coverage Results" MODIFIED="1619320452139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/File/fileobj" />
     <SUITE FILE_PATH="coverage/Learn_Python$010_max.coverage" NAME="010-max Coverage Results" MODIFIED="1617887314081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/python_learn$wsgi.coverage" NAME="wsgi应用 Coverage Results" MODIFIED="1560613856228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-应用" />
     <SUITE FILE_PATH="coverage/Learn_Python$020_normcase.coverage" NAME="020-normcase Coverage Results" MODIFIED="1619138926093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
@@ -444,6 +402,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$002_basename.coverage" NAME="002-basename Coverage Results" MODIFIED="1619137762324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
     <SUITE FILE_PATH="coverage/Learn_Python$005_dirname.coverage" NAME="005-dirname Coverage Results" MODIFIED="1619137769542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
     <SUITE FILE_PATH="coverage/Learn_Python$001_clear.coverage" NAME="001-clear Coverage Results" MODIFIED="1617673417256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/05-Dict" />
+    <SUITE FILE_PATH="coverage/Learn_Python$003_fileno.coverage" NAME="003-fileno Coverage Results" MODIFIED="1619319776625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/File/fileobj" />
     <SUITE FILE_PATH="coverage/Learn_Python$006_rjust.coverage" NAME="006-rjust Coverage Results" MODIFIED="1617887105554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
   </component>
 </project>
