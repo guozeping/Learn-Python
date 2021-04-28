@@ -1,15 +1,6 @@
 #!/usr/bin/env  python
 # --*--coding:utf-8 --*--
 import os
-
-# print(os.name)
-# print(os.path)
-# print(os.error)
-# print(dir(os))
-# print(os.sep)
-# print(os.getcwd())
-
-print(os.getgroups())
 """
 os模块包装了不同操作系统的通用接口，使用户在不同操作系统下，可以使用相同的函数接口，返回相同结构的结果。
 
@@ -24,6 +15,8 @@ os.extsep（扩展名分隔符，windows中是 . ）
 os.pathsep（目录分隔符，windows中是 ; ）
 
 os.linesep（换行分隔符，windows中是 \r\n ）
+
+system(cmd):运行一个程序或命令，会立即返回，并在cmd执行完成后，会返回cmd退出代码
 
 os中有大量文件、路径操作的相关函数，如：
 
@@ -53,8 +46,6 @@ _exit(n):退出程序
 
 os.path
 startfile(filename):用与文件关联的程序运行，关联程序打开后，立即返回
-
-system(cmd):运行一个程序或命令，会立即返回，并在cmd执行完成后，会返回cmd退出代码
 
 os.path:在不同的操作系统中调用不同的模块，是一个可import的模块，这个模块中提供很多有用的操作：
 
