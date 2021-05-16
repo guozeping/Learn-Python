@@ -2,44 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b5edea-6e4d-4b0f-952a-3123e6ef50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/012-monotonic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/013-monotonic_as.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/014-perf_counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/015-perf_counter_ns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/016-process_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/017-process_time_ns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/018-pthread_getcpuclockid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/019-sleep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/020-strftime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/021-strptime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/022-thread_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/023-thread_time_ns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/024-time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/025-time_ns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/026-tzset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/002-datetime/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/000-多线程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/001-线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/002-线程锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/003-信号量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/004-事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/005-定时器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/006-多线程队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/007-线程池.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/008-守护线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多线程/009-等待线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-进阶/多进程/进程池/001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phone.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/OS/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/OS/basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/001-asctime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/001-asctime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/007-ctime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/007-ctime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/009-gmtime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/009-gmtime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/010-localtime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/010-localtime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/011-mktime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/011-mktime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/压缩与解压/压缩.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/压缩与解压/压缩.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/压缩与解压/解压.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/压缩与解压/解压.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/._excel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlrd_excel/._excel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/Excel_Workbook_5.xls" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlrd_excel/Excel_Workbook_5.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/excel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlrd_excel/excel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlrd_excel/对excel的读取.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlrd_excel/对excel的读取.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/Excel_Workbook.xls" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/Excel_Workbook.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/为单元格添加边框.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/为单元格添加边框.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/为单元格设置背景色.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/为单元格设置背景色.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/合并列和航.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/合并列和航.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/向单元格添加一个公式.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/向单元格添加一个公式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/向单元格添加一个超链接.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/向单元格添加一个超链接.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/操作elcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/操作elcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/格式变换.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/格式变换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel/设置单元格宽度.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-教程/操作excel/xlwt_excel/设置单元格宽度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,8 +76,8 @@
       <recent name="$PROJECT_DIR$/1-基础/模块/OS/path模块" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.basic">
-    <configuration name="007-ctime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.001-进程">
+    <configuration name="001-进程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +85,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2-进阶/多进程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/007-ctime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-进阶/多进程/001-进程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="012-monotonic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="004-事件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +107,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2-进阶/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/012-monotonic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-进阶/多线程/004-事件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="017-process_time_ns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="005-定时器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +129,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2-进阶/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/017-process_time_ns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-进阶/多线程/005-定时器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="026-tzset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="009-等待线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +151,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2-进阶/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/001-time/func/026-tzset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-进阶/多线程/009-等待线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="队列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,12 +173,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/002-datetime" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2-进阶/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/002-datetime/basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-进阶/多线程/队列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.basic" />
-        <item itemvalue="Python.017-process_time_ns" />
-        <item itemvalue="Python.026-tzset" />
-        <item itemvalue="Python.012-monotonic" />
-        <item itemvalue="Python.007-ctime" />
+        <item itemvalue="Python.001-进程" />
+        <item itemvalue="Python.队列" />
+        <item itemvalue="Python.004-事件" />
+        <item itemvalue="Python.005-定时器" />
+        <item itemvalue="Python.009-等待线程" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +282,18 @@
       <workItem from="1619319641212" duration="33000" />
       <workItem from="1619319702561" duration="4104000" />
       <workItem from="1619422163496" duration="728000" />
-      <workItem from="1619484480309" duration="3301000" />
+      <workItem from="1619484480309" duration="4153000" />
+      <workItem from="1620266866034" duration="6460000" />
+      <workItem from="1620799376887" duration="284000" />
+      <workItem from="1620982806357" duration="383000" />
+      <workItem from="1620983551904" duration="6000" />
+      <workItem from="1620984247370" duration="45000" />
+      <workItem from="1620984319311" duration="42000" />
+      <workItem from="1620984431944" duration="48000" />
+      <workItem from="1620984517106" duration="103000" />
+      <workItem from="1620984635733" duration="311000" />
+      <workItem from="1621149979911" duration="17000" />
+      <workItem from="1621150014595" duration="5522000" />
     </task>
     <servers />
   </component>
@@ -340,7 +327,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$004_commonprefix.coverage" NAME="004-commonprefix Coverage Results" MODIFIED="1619137682583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
     <SUITE FILE_PATH="coverage/Learn_Python$001_.coverage" NAME="001-闭包装饰器 Coverage Results" MODIFIED="1616033180618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
     <SUITE FILE_PATH="coverage/Learn_Python$015_maketrans.coverage" NAME="015-maketrans Coverage Results" MODIFIED="1617888580360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
-    <SUITE FILE_PATH="coverage/Learn_Python$001.coverage" NAME="basic Coverage Results" MODIFIED="1619573587465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/002-datetime" />
+    <SUITE FILE_PATH="coverage/Learn_Python$001.coverage" NAME="001 Coverage Results" MODIFIED="1620646656126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-进阶/多线程" />
     <SUITE FILE_PATH="coverage/Learn_Python$015_isdecimal.coverage" NAME="015-isdecimal Coverage Results" MODIFIED="1617871605594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/Learn_Python$007_lower.coverage" NAME="007-lower Coverage Results" MODIFIED="1617672920100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$__len__.coverage" NAME="__len__ Coverage Results" MODIFIED="1618214708400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/魔法方法" />
@@ -392,6 +379,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$014_symmetric_difference_upate.coverage" NAME="014-symmetric_difference_upate Coverage Results" MODIFIED="1617932692360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/06-Set/内置方法" />
     <SUITE FILE_PATH="coverage/Learn_Python$011_istitle.coverage" NAME="011-istitle Coverage Results" MODIFIED="1577931398938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/Learn_Python$002__staticmethod_classmethod.coverage" NAME="002-@staticmethod，@classmethod Coverage Results" MODIFIED="1616032914941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器/001-内置装饰器" />
+    <SUITE FILE_PATH="coverage/Learn_Python$join.coverage" NAME="等待线程 Coverage Results" MODIFIED="1621154651290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-进阶/多线程" />
     <SUITE FILE_PATH="coverage/Learn_Python$casefold.coverage" NAME="casefold Coverage Results" MODIFIED="1617885932617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$001_argpase.coverage" NAME="001-argpase Coverage Results" MODIFIED="1618667751895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块" />
     <SUITE FILE_PATH="coverage/python_learn$007_.coverage" NAME="007-函数的函数带参装饰器 Coverage Results" MODIFIED="1560920761369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
@@ -404,6 +392,7 @@
     <SUITE FILE_PATH="coverage/Learn_Python$024_samefile.coverage" NAME="024-samefile Coverage Results" MODIFIED="1619139319867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
     <SUITE FILE_PATH="coverage/python_learn$001_property.coverage" NAME="001-property Coverage Results" MODIFIED="1560922105556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器/001-内置装饰器" />
     <SUITE FILE_PATH="coverage/Learn_Python$__new__.coverage" NAME="__new__ Coverage Results" MODIFIED="1618213498220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/魔法方法" />
+    <SUITE FILE_PATH="coverage/Learn_Python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1620615865161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learn_Python$007__.coverage" NAME="007-带参函数装饰器-函数 Coverage Results" MODIFIED="1616034273730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
     <SUITE FILE_PATH="coverage/Learn_Python$partition.coverage" NAME="partition Coverage Results" MODIFIED="1617887699185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$004_expandtabs.coverage" NAME="004-expandtabs Coverage Results" MODIFIED="1617886625368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
@@ -429,8 +418,8 @@
     <SUITE FILE_PATH="coverage/Learn_Python$008_islower.coverage" NAME="008-islower Coverage Results" MODIFIED="1617873660555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/Learn_Python$sortsotred.coverage" NAME="sort、sotred Coverage Results" MODIFIED="1615856786535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-知识点" />
     <SUITE FILE_PATH="coverage/python_learn$008_.coverage" NAME="008-函数的类带参装饰器 Coverage Results" MODIFIED="1560921768030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/装饰器" />
-    <SUITE FILE_PATH="coverage/Learn_Python$.coverage" NAME="设置单元格宽度 Coverage Results" MODIFIED="1597208564021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-教程/3-应用/操作excel/xlwt_excel" />
     <SUITE FILE_PATH="coverage/Learn_Python$016_isdir.coverage" NAME="016-isdir Coverage Results" MODIFIED="1619138342186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
+    <SUITE FILE_PATH="coverage/Learn_Python$.coverage" NAME="队列 Coverage Results" MODIFIED="1621156647138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-进阶/多线程" />
     <SUITE FILE_PATH="coverage/Learn_Python$isalpha.coverage" NAME="isalpha Coverage Results" MODIFIED="1577931215717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
     <SUITE FILE_PATH="coverage/Learn_Python$removesuffix.coverage" NAME="removesuffix Coverage Results" MODIFIED="1617672609098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
     <SUITE FILE_PATH="coverage/Learn_Python$removeprefix.coverage" NAME="removeprefix Coverage Results" MODIFIED="1617672531012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/03-改" />
@@ -443,8 +432,8 @@
     <SUITE FILE_PATH="coverage/Learn_Python$001__1_.coverage" NAME="001 (1) Coverage Results" MODIFIED="1619339370995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/时间、日期、日历/003-Calendar" />
     <SUITE FILE_PATH="coverage/Learn_Python$__setitem__.coverage" NAME="__setitem__ Coverage Results" MODIFIED="1618218054550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/魔法方法" />
     <SUITE FILE_PATH="coverage/Learn_Python$003_startswith.coverage" NAME="003-startswith Coverage Results" MODIFIED="1617872125758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/02-String/内建函数/04-查" />
-    <SUITE FILE_PATH="coverage/Learn_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1619071002994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learn_Python$008_expanduser.coverage" NAME="008-expanduser Coverage Results" MODIFIED="1619137941672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
+    <SUITE FILE_PATH="coverage/Learn_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1620635508216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learn_Python$015_isdisjoint.coverage" NAME="015-isdisjoint Coverage Results" MODIFIED="1617932916547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/基本变量类型/06-Set/内置方法" />
     <SUITE FILE_PATH="coverage/Learn_Python$002_basename.coverage" NAME="002-basename Coverage Results" MODIFIED="1619137762324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
     <SUITE FILE_PATH="coverage/Learn_Python$005_dirname.coverage" NAME="005-dirname Coverage Results" MODIFIED="1619137769542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-基础/模块/OS" />
